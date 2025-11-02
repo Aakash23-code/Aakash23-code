@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Aakash Verma
 
-<!--
-**Aakash23-code/Aakash23-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java & Web Developer | Technical Lead | Ex-Wipro**  
+📍 Mumbai, India | ✉️ aakashverma1672@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I’m a developer with 3+ years of experience across **backend development, web systems, and client-facing project delivery**.  
+I’ve built 20+ digital solutions using **Java, Spring Boot, PHP, JavaScript, MySQL**, and handled **hosting & deployment on Hostinger and AWS**.
+
+### 🧩 My Work
+- 🔹 **Veena Group Management System** – complete internal business suite.  
+- 🔹 **Lottery Allocation System** – flat allocation automation for redevelopment projects.  
+- 🔹 **Veena Group Website** – official company platform (corporate + consultancy).  
+- 🔹 **Mortgage Management API** – Spring Boot + MySQL backend system.
+
+### 🛠️ Tech Stack
+**Languages:** Java, PHP, JavaScript, SQL  
+**Frameworks:** Spring Boot, Hibernate, Bootstrap  
+**Databases:** MySQL  
+**Cloud/Hosting:** Hostinger, AWS  
+**Version Control:** Git, GitHub  
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/aakash-verma-81135a191) • [Email](mailto:aakashverma1672@gmail.com)
