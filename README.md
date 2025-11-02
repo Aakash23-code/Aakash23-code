@@ -21,4 +21,4 @@ I’ve built 20+ digital solutions using **Java, Spring Boot, PHP, JavaScript, M
 **Version Control:** Git, GitHub  
 
 ### 📫 Connect with Me
-[LinkedIn]((https://www.linkedin.com/in/aakashverma23/)) • [Email](mailto:aakashverma1672@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aakashverma23) • [Email](mailto:aakashverma1672@gmail.com)
