@@ -10,10 +10,8 @@ I’m a developer with 3+ years of experience across **backend development, web 
 I’ve built 20+ digital solutions using **Java, Spring Boot, PHP, JavaScript, MySQL**, and handled **hosting & deployment on Hostinger and AWS**.
 
 ### 🧩 My Work
-- 🔹 **Veena Group Management System** – complete internal business suite.  
 - 🔹 **Lottery Allocation System** – flat allocation automation for redevelopment projects.  
 - 🔹 **Veena Group Website** – official company platform (corporate + consultancy).  
-- 🔹 **Mortgage Management API** – Spring Boot + MySQL backend system.
 
 ### 🛠️ Tech Stack
 **Languages:** Java, PHP, JavaScript, SQL  
@@ -23,4 +21,4 @@ I’ve built 20+ digital solutions using **Java, Spring Boot, PHP, JavaScript, M
 **Version Control:** Git, GitHub  
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/aakash-verma-81135a191) • [Email](mailto:aakashverma1672@gmail.com)
+[LinkedIn](www.linkedin.com/in/aakashverma23) • [Email](mailto:aakashverma1672@gmail.com)
