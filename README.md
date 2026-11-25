@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.webp" alt="Aakash Verma — Technical Project Manager | Product Management | AI & Digital Products" width="100%">
+</p>
+
 # Aakash Verma
 
 ### Technical Project Manager | Product Management | AI & Digital Products
